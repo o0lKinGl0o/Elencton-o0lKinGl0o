@@ -1,0 +1,12 @@
+html{
+	margin: 0;
+}
+header{
+	display:grid;
+	background: #cb2d41;
+	grid-template-columns:auto auto auto auto;
+
+}
+.black {
+	background: #ffffff;
+}
