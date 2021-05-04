@@ -1,0 +1,102 @@
+{
+  "taskTable": [
+    {
+      "id": 1618908792509,
+      "login": "vostroknutov.valera@list.ru",
+      "password": "vostcorp12A",
+      "size": "41",
+      "sposob": "Select metod"
+    },
+    {
+      "id": 1618908792509,
+      "login": "vostroknutov.valera@list.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1618908809852,
+      "login": "vostroknutov.98@list.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1618908834973,
+      "login": "valera.vostroknutof.90@bk.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1618908849166,
+      "login": "vostroknutov.95@bk.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1619166504435,
+      "login": "vostroknutov19932@list.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1619166749300,
+      "login": "zakhar.avypvy@bk.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1619166766874,
+      "login": "vostacc1@mail.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1619166788331,
+      "login": "vostacc2@mail.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1619166828341,
+      "login": "vostroknutov1993@list.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1619166884851,
+      "login": "vostroknutov19931@list.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1619166943267,
+      "login": "vostroknutov19933@mail.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1619166966396,
+      "login": "vostroknutov19934@list.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    },
+    {
+      "id": 1619167034349,
+      "login": "vostroknutov.95@bk.ru",
+      "password": "vostcorp12A",
+      "size": "40.5",
+      "sposob": "Почта России"
+    }
+  ]
+}

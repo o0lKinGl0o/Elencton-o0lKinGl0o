@@ -3,6 +3,7 @@ const url = require('url');
 const {app, BrowserWindow} = require('electron');
 const fs = require('fs');
 const puppeteer = require('puppeteer');
+
 require('@electron/remote/main').initialize()
 
 let win;
@@ -20,23 +21,24 @@ function createWindow() {
 
     // minWidth: 1200,
     // minHeight: 700,
-    width: 800,
-    height: 500,
+    width: 1100,
+    height: 600,
     minWidth: 800,
     minHeight: 500,
     maxWidth: width,
     maxHeight: height,
-    frame: true,
+    //frame: false,
+    hasShadow:false,
+    backgroundColor: '#252a34',
+    //transparent: true,
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false,
-      enableRemoteModule: true
+      enableRemoteModule: true,
+      //devTools: false
     },
     icon: "./build/icon.ico"
   });
-
-
-
 
   win.loadURL(url.format({
     pathname: path.join(__dirname, 'index.html'),

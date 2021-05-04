@@ -3,18 +3,27 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "electron-packager . vostbot --all --app-version=0.1.0 --out=dist --ignore=dist --prune"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@electron/remote": "^1.1.0",
     "bootstrap": "^5.0.0-beta3",
+    "discord-webhook-node": "^1.1.8",
     "electron": "^12.0.2",
+    "electron-db": "^0.15.7",
+    "electron-json": "^1.0.8",
+    "electron-json-config": "^1.5.3",
+    "electron-json-storage": "^4.4.0",
     "jquery": "^3.6.0",
-    "puppeteer": "^8.0.0"
+    "node.js": "0.0.1-security",
+    "puppeteer": "^8.0.0",
+    "user-agent": "^1.0.4",
+    "user-agents": "^1.0.628",
+    "webhook-discord": "^3.7.7"
   },
-  "devDependencies": {},
   "keywords": [],
   "description": ""
 }
